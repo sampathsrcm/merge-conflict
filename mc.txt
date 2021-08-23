@@ -1,0 +1,500 @@
+   34  git stash pop
+   35  git commit -am "merge stash"
+   36  git stash pop
+   37  git stash list
+   38  git push
+   39  echo "test stash again" >> myheart1.txt
+   40  git stash
+   41  git stash pop
+   42  git add .
+   43  git commit -am "merge stash check"
+   44  git stash pop
+   45  exit
+   46  pwd
+   47  cd eclipse
+   48  cd..
+   49  cd/
+   50  cd-
+   51  cd -
+   52  clear
+   53  pwd
+   54  cd git
+   55  git status
+   56  clear
+   57  cd sampjavarep
+   58  git status
+   59  git add .
+   60  git commit  -am  "Added a method in test greeter"
+   61  git push
+   62  exit
+   63  pwd
+   64  cd ./git
+   65  git status
+   66  clear
+   67  cd sampjavarep
+   68  git status
+   69  git add .
+   70  git commit -am "commited a 3rd method in test greeter"
+   71  git push
+   72  exit
+   73  pwd
+   74  cd -
+   75  cd -
+   76  cd.
+   77  cd..
+   78  clear
+   79  pwd
+   80  cd --
+   81  cd --
+   82  pwd
+   83  cd --
+   84  pwd
+   85  clear
+   86  cd git
+   87  cd sampmavenjar
+   88  git add .
+   89  git commit -am "commiting testng xml file"
+   90  git push
+   91  git push
+   92  git commit -am "commiting testng xml file"
+   93  git push
+   94  exit
+   95  pwd
+   96  cd git
+   97  cd My_PAckage_application
+   98  cd sampjsprep
+   99  git status
+  100  git add .
+  101  git commit -am "Commiting change to jsp file"
+  102  git push
+  103  git status
+  104  git commit -am "Commiting change to jsp file"
+  105  git push
+  106  git commit -am "Commiting change to jsp file"
+  107  git push
+  108  git commit -am "Commiting change to jsp file"
+  109  git push
+  110  git commit -am "Commiting change to jsp file"
+  111  git push
+  112  exit
+  113  git status
+  114  clear
+  115  cd git
+  116  cd sampjsprep
+  117  git status
+  118  git commit -am "production deployment"
+  119  git push
+  120  git commit -am "production deployment"
+  121  git push
+  122  git status
+  123  git commit -am "production deployment made some more changes"
+  124  git push
+  125  git commit -am "production deployment made some more changes"
+  126  git push
+  127  pwd
+  128  cd..
+  129  clear
+  130  pwd
+  131  cd -
+  132  cd sampygroovy
+  133  git status
+  134  clear
+  135  pwd
+  136  cd -
+  137  cd sampygroovygit
+  138  clear
+  139  cd sampgroovygit
+  140  git status
+  141  git status
+  142  git commit - am "groovy code"
+  143  git push
+  144  git commit -am "groovy code"
+  145  git push
+  146  git commit -am "groovy code"
+  147  git commit -am "groovy code"
+  148  git push
+  149  exit
+  150  pwd
+  151  cd git
+  152  cd samgroovygit
+  153  cd sampgroovygit
+  154  git status
+  155  git commit -am "saving jenkins file"
+  156  git push
+  157  git status
+  158  git push
+  159  git commit -am "saving jenkins file"
+  160  git push
+  161  git commit -am "saving jenkins file"
+  162  git push
+  163  exit
+  164  cd git
+  165  cd sampgroovygit
+  166  cd git status
+  167  git status
+  168  git add .
+  169  git commit -m "change jenkins file"
+  170  git push
+  171  git status
+  172  git add .
+  173  git commit -m "change jenkins file"
+  174  git push
+  175  git add .
+  176  git commit -m "change jenkins file"
+  177  git push
+  178  git add .
+  179  git commit -m "change jenkins file"
+  180  git push
+  181  git commit -am "change jenkins file"
+  182  git push
+  183  git commit -am "change jenkins file"
+  184  git push
+  185  cd-
+  186  cd -
+  187  cd sampjsprep
+  188  git status
+  189  git commit -am "Commiting jsp file"
+  190  git add .
+  191  git commit -am "Commiting jsp file"
+  192  git push
+  193  git commit -am "Commiting jsp file"
+  194  git push
+  195  git commit -am "Commiting jsp file"
+  196  git push
+  197  git commit -am "Commiting jsp file"
+  198  git push
+  199  git commit -am "Commiting jsp file"
+  200  git push
+  201  git commit -am "Commiting jsp file"
+  202  git push
+  203  git status
+  204  git status
+  205  git commit -am "Commiting jsp file"
+  206  git status
+  207  git push
+  208  git status
+  209  git add .
+  210  git commit -am "Commiting jsp file"
+  211  git push
+  212  git status
+  213  git commit -am "Commiting jsp file"
+  214  git status
+  215  git push
+  216  git commit -am "Commiting jsp file"
+  217  git push
+  218  git commit -am "Commiting jsp file"
+  219  git push
+  220  git status
+  221  exit
+  222  cd git
+  223  cd sampjsprerep1
+  224  cd sampjsprerep1
+  225  cd sampjsprep1
+  226  git status
+  227  git commit -am "comming from new ide"
+  228  git push
+  229  git commit -am "comming from new ide"
+  230  git push
+  231  git status
+  232  git commit -am "comming from new ide"
+  233  git status
+  234  git push
+  235  git commit -am "comming from new ide"
+  236  git push
+  237  git add .
+  238  git commit -m "comming from new ide"
+  239  git push
+  240  git add .
+  241  git commit -m "comming from new ide"
+  242  git push
+  243  git add .
+  244  git commit -m "comming from new ide"
+  245  git push
+  246  git add .
+  247  git commit -m "new commit 2nd cometetion"
+  248  git push
+  249  git add .
+  250  git commit -m "new commit 2nd cometetion"
+  251  git push
+  252  git status
+  253  ls
+  254  cd/
+  255  cd .
+  256  cd -
+  257  cd -
+  258  cd -
+  259  cd -
+  260  cd -
+  261  cd -
+  262  cd /
+  263  pwd
+  264  pwd
+  265  cd users
+  266  exit
+  267  cd/
+  268  cd -
+  269  clear
+  270  pwd
+  271  dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+  272  exit
+  273  pwd
+  274  cd docker-share/html
+  275  pwd
+  276  ls -al
+  277  touch index.html
+  278  ls
+  279  echo "This is my index.html from host machine with hostname $(hostname)" >> index.html
+  280  cat index.html
+  281  cd 
+  282  cd -
+  283  cd -
+  284  cd -
+  285  pwd
+  286  cd -
+  287  pwd
+  288  docker info
+  289  docker run -d -p 8080:80 -v ~/docker-share/html:/usr/share/nginx/html --hostname mycontainer nginx
+  290  docker ps
+  291  docker stop 711f58c2c6d6
+  292  docker ps
+  293  docker run -d -p 8080:80 -v ~/docker-share/html:/usr/share/nginx/html --hostname mycontainer nginx
+  294  docker run -d -p 8080:80 -v ~/docker-share/html:/usr/share/nginx/html --hostname mycontainer nginx
+  295  exit
+  296  docker run -d -p 8080:80 -v ~/docker-share/html:/usr/share/nginx/html nginx
+  297  docker run -d -p 8080:80 nginx
+  298  docker ps
+  299  docker stop  musing_ardinghelli
+  300  docker run -d -p 8080:80 -v C:\Users\sampy\docker-share\html:/usr/share/nginx/html nginx
+  301  exit
+  302  pwd
+  303  cd  git/dockerimplementation
+  304  git status
+  305  git add .
+  306  git commit -am "commiting tomcat image test"
+  307  git push
+  308  git status
+  309  git commit -am "commiting tomcat image test"
+  310  git push
+  311  git commit -am "commiting tomcat image test"
+  312  git push
+  313  git commit -am "commiting tomcat image test"
+  314  git push
+  315  git commit -am "commiting tomcat image test"
+  316  git push
+  317  pwd
+  318  git status
+  319  git commit a
+  320  git add .
+  321  git status
+  322  git commit -am "update jenkins file"
+  323  git push
+  324  git status
+  325  cd/
+  326  cd -
+  327  cd git
+  328  cd dockerimplmentation
+  329  cd dockerimplentation
+  330  cd dockerimplementation
+  331  git status
+  332  git add .
+  333  git status
+  334  exit
+  335  exit
+  336  vi myfile
+  337  vi -v
+  338  vim myfile
+  339  vim myfile
+  340  vim myname
+  341  mkdir gitflow-test
+  342  pwd
+  343  cd gitflow-test
+  344  git flow init
+  345  ls
+  346  pwd
+  347  ls
+  348  git flow init
+  349  git status
+  350  git branch
+  351  cd
+  352  cd user/sampy
+  353  cd user
+  354  pwd
+  355  rm gitflow-test
+  356  git branch
+  357  cd gitflow-test
+  358  git branch
+  359  git branch master
+  360  git branch
+  361  git flow feature start feature1
+  362  git flow init
+  363  clear
+  364  exit
+  365  pwd
+  366  cd git
+  367  mkdir gitflow-test
+  368  cd gitflow-test
+  369  git flow init
+  370  git branch
+  371  git flow feature start feature1
+  372  git branch
+  373  git flow feature finish feature1
+  374  git branch
+  375  git flow release start 0.1.0
+  376  git branch
+  377  git switch master
+  378  git merge release/0.1.0
+  379  git flow release finish '0.1.0'
+  380  git flow release finish '0.1.0'
+  381  git branch
+  382  clear
+  383  git branch
+  384  pwd
+  385  clear
+  386  cd..
+  387  cd-
+  388  cd -
+  389  clear
+  390  pwd
+  391  clear
+  392  mkdir gitflow-test
+  393  cd gitflow-test
+  394  git flow init
+  395  git branch
+  396  git flow feature start feature1
+  397  git branch
+  398  git flow feature finish feature1
+  399  git flow release start 0.1.0
+  400  git branch
+  401  git checkout master
+  402  git merge release/0.1.0 
+  403  git flow release finish '0.1.0'
+  404  git switch develop
+  405  git flow hotfix start v1
+  406  git branch
+  407  git checkout master
+  408  git merge hotfix/v1
+  409  git flow hotfix finish v1
+  410  cd -
+  411  mkdir gitflow-test
+  412  cd gitflow-test
+  413  git flow init
+  414  git status
+  415  git branch
+  416  git flow feature start 0.1.0
+  417  git branch
+  418  git checkout master
+  419  git merge feature/0.1.0
+  420  git flow feature finish '0.1.0'
+  421  git flow hotfix start v1
+  422  nano update.txt
+  423  git checkout master
+  424  git merge hotfix/v1
+  425  git flow hotfix finish v1
+  426  git clone https://github.com/sampathsrcm/Gitflowwrkflow.git
+  427  git pull origin master
+  428  git pull
+  429  git push 
+  430  git push origin master
+  431  git push origin main
+  432  git branch -M master
+  433  git remote add origin https://github.com/sampathsrcm/Gitflowwrkflow.git
+  434  git push -u origin master
+  435  ls
+  436  git pull
+  437  git push
+  438  git status
+  439  git add .
+  440  git add update.txt
+  441  git commit -m "commiting"
+  442  git push origin master
+  443  history >> history.txt
+  444  clear
+  445  pwd
+  446  cd -
+  447  cd git
+  448  pwd
+  449  clear
+  450  mkdir assignment-04
+  451  cd assignment-04
+  452  git init
+  453  nano master.txt
+  454  git branch
+  455  git add .
+  456  git commit -m "commiting master file in master"
+  457  git branch
+  458  git checkout -b public1
+  459  git branch
+  460  nano public1.txt
+  461  git add .
+  462  git commit -m "Commiting the public.txt in public1 branch"
+  463  git checkout - b public2
+  464  git checkout -b public2
+  465  nano public2.txt
+  466  git add .
+  467  git commit -m "Commiting the public.txt in public2 branch"
+  468  git branch
+  469  git switch master
+  470  git branch private
+  471  git branch
+  472  ls
+  473  git merge public1
+  474  git merge public2
+  475  ls
+  476  git switch private
+  477  ls
+  478  nano master.txt
+  479  git add .
+  480  git switch public1
+  481  git rebase private
+  482  git add .
+  483  git commit -m "From p1"
+  484  git switch public2
+  485  git add .
+  486  git commit -m "From p2"
+  487  git switch master
+  488  git rebase private
+  489  git switch private
+  490  git rebase master
+  491  history >> history1.txt
+  492  git branch -M main
+  493  git branch
+  494  git switch master
+  495  git branch -M master
+  496  git remote add origin https://github.com/sampathsrcm/Assgnment-5.git
+  497  git push origin master
+  498  git master
+  499  history 
+  500  exit
+  501  pwd
+  502  cd git
+  503  git clone https://github.com/sampathsrcm/merge-conflict.git
+  504  git add .
+  505  git init
+  506  git add .
+  507  git add main.c
+  508  pwd
+  509  cd merge-conflict
+  510  git init
+  511  git add main.c
+  512  git commit -m "commiting file"
+  513  git branch feature1
+  514  git branch feature2
+  515  git branch
+  516  git switch feature1
+  517  nano main.c
+  518  nano main.c
+  519  git switch master
+  520  git merge feature1
+  521  git switch feature1
+  522  git add main.c
+  523  git commit -m "commiting from feature1"
+  524  git switch master
+  525  git merge feature1
+  526  git switch feature2
+  527  nano main.c
+  528  git switch master
+  529  git add main.c
+  530  git commit -m "commiting from feature 2"
+  531  git switch master
+  532  git merge feature2
+  533  history >> mc.txt
